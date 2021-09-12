@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\AddressBookDemo\AddressBookDemo\obj\Debug\netcoreapp3.1\AddressBookDemo.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\AddressBookDemo\AddressBookDemo\obj\Debug\netcoreapp3.1\AddressBookDemo.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\AddressBookDemo\AddressBookDemo\obj\Debug\netcoreapp3.1\AddressBookDemo.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\AddressBookDemo\AddressBookDemo\obj\Debug\netcoreapp3.1\AddressBookDemo.csproj.CoreCompileInputs.cache
